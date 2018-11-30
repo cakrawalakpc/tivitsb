@@ -56,7 +56,7 @@ http://202.80.222.178:80/000001/2/ch00000090990000001695/index.m3u8?virtualDomai
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="nologo.png" group-title="Indonesia", KARAOKE CHANEL
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/cakrawalakpc/tivitsb/master/logotv/KARAOKE.jpg" group-title="Indonesia", KARAOKE CHANEL
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/cakrawalakpc/ipstb/master/logotv/BALI%20TV.jpg" group-title="Indonesia", BALI TV
@@ -65,10 +65,10 @@ http://202.80.222.171/000001/2/ch00000090990000001729/1001.m3u8?zte_bandwidth=10
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/cakrawalakpc/ipstb/master/logotv/ZEE%20BIOSKOP.jpg" group-title="Indonesia", ZEEBIOSKOP
 http://210.210.155.35/qwr9ew/s/s32/02.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://oi68.tinypic.com/2mwi8us.jpg" group-title="Indonesia", FIGHT
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/cakrawalakpc/tivitsb/master/logotv/FIGHT%20V.jpg" group-title="Indonesia", FIGHT
 http://210.210.155.35/uq2663/h/h05/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://oi66.tinypic.com/294jk0x.jpg" group-title="Indonesia", K+ KOREA
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/cakrawalakpc/tivitsb/master/logotv/KTV.jpg" group-title="Indonesia", K+ KOREA
 http://210.210.155.35/uq2663/h/h08/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/cakrawalakpc/ipstb/master/logotv/GOLF.jpg" group-title="Indonesia", GOLF HD
