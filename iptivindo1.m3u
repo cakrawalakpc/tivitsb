@@ -92,7 +92,7 @@ http://177.139.171.102:27030/live/alvaro/17/124.ts
 http://rr.dens.tv/h/h231/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://oi63.tinypic.com/epqadj.jpg" group-title="Indonesia", &FLIX
-http://z5ams.akamaized.net/andflixhd/playlist.m3u8
+http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/cakrawalakpc/ipstb/master/logotv/NATGEOWILD.jpg" group-title="Indonesia", NAT GEO WILD
 http://livestream.biznetvideo.net/biznet_ngwild/_definst_/stream_ngwild/playlist.m3u8?tokenbiznetlivestarttime=0&tokenbiznetliveendtime=0&tokenbiznetliveCustomParameter=myParameter&tokenbiznetlivehash=9HBzxNeuVKCF9tSg8EJBDQouJrh4MyHZjmkMJGdq8Uh4APAFd9-6ylJqTh03popl
