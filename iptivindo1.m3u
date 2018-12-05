@@ -100,5 +100,7 @@ http://livestream.biznetvideo.net/biznet_ngwild/_definst_/stream_ngwild/playlist
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/cakrawalakpc/ipstb/master/logotv/NAT%20GEO.jpg" group-title="Indonesia", NATIONAL GEOGRAFIC
 http://livestream.biznetvideo.net/biznet_ngc/_definst_/stream_ngc/playlist.m3u8?tokenbiznetlivestarttime=0&tokenbiznetliveendtime=0&tokenbiznetliveCustomParameter=myParameter&tokenbiznetlivehash=7uN8irTYbg4krqClT-fumw597nysiQLTedMw2_3HXq8XMkPGnw_lsCxqZx7OHAcc
 
+#EXTINF:-1 tvg-ID="HBO.ro" tvg-name="RO: HBO 1" tvg-logo="http://static.iptv-epg.com/ro/HBO.ro.png" group-title="Romania",RO: HBO 1
+http://newlook-secure.com:80/live/test_a21457/234101/42214.ts
 
 
