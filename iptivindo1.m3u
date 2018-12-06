@@ -75,6 +75,9 @@ http://210.210.155.35/uq2663/h/h05/index.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/cakrawalakpc/tivitsb/master/logotv/KTV.jpg" group-title="Indonesia", K+ KOREA
 http://210.210.155.35/uq2663/h/h08/index.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="nologo.png" group-title="Indonesia", FOX HD
+http://210.210.155.35/uq2663/h/h04/index1.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/cakrawalakpc/ipstb/master/logotv/GOLF.jpg" group-title="Indonesia", GOLF HD
 http://210.210.155.35/uq2663/h/h232/index.m3u8
 
