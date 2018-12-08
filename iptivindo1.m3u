@@ -89,7 +89,7 @@ http://80.80.160.168/live/8/2500000/live.m3u8
 
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/cakrawalakpc/ipstb/master/logotv/ANIMALPLANET.jpg" group-title="Indonesia", ANIMAL PLANET
-http://premiumtv.eu:8000/JEVBNMFKhr/jB57piplxg/112
+http://193.200.164.146:8080/cciptv.multimedia_new/BNMklkKJ123/7791
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/cakrawalakpc/ipstb/master/logotv/HBOINDO.jpg" group-title="Indonesia", HBO 2
 http://best4u.tn:8000/live/a1204/e9q5/3871.ts
