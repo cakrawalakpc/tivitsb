@@ -24,6 +24,8 @@ http://202.80.222.170/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=0
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/cakrawalakpc/ipstb/master/logotv/RCTI.jpg" group-title="Indonesia", RCTI
 http://202.80.222.178/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
+#EXTINF:-1, CNN INDONESIA
+http://live.cnnindonesia.com/livecnn/cnn_live_tv3.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/cakrawalakpc/ipstb/master/logotv/MNCTV.jpg" group-title="Indonesia", MNCTV
 http://202.80.222.178/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com
