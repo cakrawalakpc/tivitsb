@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/cakrawalakpc/ipstb/master/logotv/TVONE.jpg" group-title="Indonesia", TVONE
-https://etslive-2-vidio-com.akamaized.net/exp=1569304873~acl=/hls-b/ingest_783_*/*~hmac=95e5943f49d969e22638f1ab12f32786e16bd82fc8a4613f82bf1a1b78414f8c/hls-b/ingest_783_low/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1569307156~acl=/hls-p/ingest_783_*/*~hmac=701c92be532e56ee20217b059d86646c0b5a0bc7d5a38d45623c9b76203f4460/hls-p/ingest_783_med/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/cakrawalakpc/ipstb/master/logotv/SCTV.jpg" group-title="Indonesia", SCTV
 http://202.80.222.178/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
