@@ -10,7 +10,7 @@ http://202.80.222.178/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=0
 http://202.80.222.174/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/cakrawalakpc/ipstb/master/logotv/TRANS7.jpg" group-title="Indonesia", TRANS 7
-https://etslive-2-vidio-com.akamaized.net/exp=1569305846~acl=/hls-p/ingest_734_*/*~hmac=f27e44231bbd40a6a14216ae01028864fed711c363393b9b967dac85733b42eb/hls-p/ingest_734_med/index.m3u8
+https://stream-02.sg1.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4Gz05O_FSJLvORKd5R6FbPLM)/dm/3/x6p1gw7/s/live-3.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/cakrawalakpc/ipstb/master/logotv/GLOBALTV.jpg" group-title="Indonesia", GLOBAL TV
 http://202.80.222.179:80/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
