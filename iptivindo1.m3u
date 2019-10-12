@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/cakrawalakpc/ipstb/master/logotv/TVONE.jpg" group-title="Indonesia", TVONE
-https://stream-01.sg1.dailymotion.com/sec(045Msia06uu92p_oLsoybA4K4qviL3Pct_Os8qSCxdE)/dm/3/x619221/s/live-3.m3u8
+http://157.119.57.68:8888/live/stress/test/419.ts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/cakrawalakpc/ipstb/master/logotv/SCTV.jpg" group-title="Indonesia", SCTV
 http://202.80.222.178/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
@@ -10,7 +10,7 @@ http://202.80.222.178/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=0
 http://202.80.222.174/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/cakrawalakpc/ipstb/master/logotv/TRANS7.jpg" group-title="Indonesia", TRANS 7
-https://stream-02.sg1.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4Gz05O_FSJLvORKd5R6FbPLM)/dm/3/x6p1gw7/s/live-3.m3u8
+http://157.119.57.68:8888/live/stress/test/445.ts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/cakrawalakpc/ipstb/master/logotv/GLOBALTV.jpg" group-title="Indonesia", GLOBAL TV
 http://202.80.222.179:80/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
