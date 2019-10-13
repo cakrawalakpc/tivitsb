@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/cakrawalakpc/ipstb/master/logotv/TVONE.jpg" group-title="Indonesia", TVONE
-http://157.119.57.68:8888/live/stress/test/419.ts
+http://157.119.57.68:8888/live/stress/test/6.ts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/cakrawalakpc/ipstb/master/logotv/SCTV.jpg" group-title="Indonesia", SCTV
 http://202.80.222.178/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
