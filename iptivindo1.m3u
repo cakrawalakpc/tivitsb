@@ -88,7 +88,7 @@ http://210.210.155.35/uq2663/h/h04/index1.m3u8
 http://210.210.155.35/uq2663/h/h232/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/cakrawalakpc/ipstb/master/logotv/HBO.jpg" group-title="Indonesia", HBO HD
-http://www.bozhd.eu:8000/Rtb0K2ssa/28mkberTT2/8766
+http://157.119.57.68:8888/live/stress/test/117.ts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="no logo.png" group-title="Indonesia", DISCOVERY
 http://80.80.160.168/live/8/2500000/live.m3u8
