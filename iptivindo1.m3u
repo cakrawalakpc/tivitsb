@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/cakrawalakpc/ipstb/master/logotv/TVONE.jpg" group-title="Indonesia", TVONE
-http://157.119.57.68:8888/live/stress/test/6.ts
+https://etslive-2-vidio-com.akamaized.net/exp=1572077289~acl=/hls-b/ingest_783_*/*~hmac=b295f7844330c2d6af01d4a0679e46f3d3f88e66ec402c0ccfde768995a501b4/hls-b/ingest_783_720p/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/cakrawalakpc/ipstb/master/logotv/SCTV.jpg" group-title="Indonesia", SCTV
 http://202.80.222.178/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
@@ -10,10 +10,10 @@ http://202.80.222.178/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=0
 http://202.80.222.174/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/cakrawalakpc/ipstb/master/logotv/TRANS7.jpg" group-title="Indonesia", TRANS 7
-http://157.119.57.68:8888/live/stress/test/445.ts
+https://etslive-2-vidio-com.akamaized.net/exp=1572077140~acl=/hls-b/ingest_734_*/*~hmac=f18f5ca4487a0ebc00f277fc1c2d40c6733bc3283f80da61c3697ca0419b33c0/hls-b/ingest_734_720p/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/cakrawalakpc/ipstb/master/logotv/GLOBALTV.jpg" group-title="Indonesia", GLOBAL TV
-http://202.80.222.179:80/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
+https://etslive-2-vidio-com.akamaized.net/exp=1572077231~acl=/hls-b/ingest_778_*/*~hmac=5dfe9aa0e142996eb28b13da5d044507506c0bb659e4d3c250bc44b129e3141f/hls-b/ingest_778_720p/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/cakrawalakpc/ipstb/master/logotv/INDOSIAR.jpg" group-title="Indonesia", INDOSIAR
 http://202.80.222.179/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com
