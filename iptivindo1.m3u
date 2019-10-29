@@ -29,7 +29,7 @@ http://live.cnnindonesia.com/livecnn/cnn_live_tv3.sdp/playlist.m3u8
 
 
 #EXTINF:-1, KOMPAS TV
-https://etslive-2-vidio-com.akamaized.net/exp=1570075694~acl=/hls-b/ingest_874_*/*~hmac=b1d1329b23bfa78001521439f838364ed792b29fcfaa65fe97d87dfc67c25c65/hls-b/ingest_874_med/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1572482848~acl=/hls-b/ingest_874_*/*~hmac=b2d80bf36a6c403e1ce3d710763739c5bd139c5543c2ec8b77ee35c64ced8acb/hls-b/ingest_874_360p/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/cakrawalakpc/ipstb/master/logotv/MNCTV.jpg" group-title="Indonesia", MNCTV
 http://202.80.222.178/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com
